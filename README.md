@@ -70,7 +70,6 @@ src/
 - Firebase Firestore
 - Material-UI
 - Vite
-- ESLint
 
 ## Features in Detail
 
